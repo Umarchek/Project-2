@@ -1,0 +1,570 @@
+.yelp-widget img, .shortcode-yelp-reviews img {
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+.shortcode-yelp-reviews {
+}
+
+.yelp-widget, .shortcode-yelp-reviews {
+    padding: 0;
+    margin: 0;
+}
+.yelp-widget li {
+
+    list-style: none;
+
+    margin-bottom: 15px;
+
+    padding-bottom: 15px;
+
+    border-bottom: 1px solid #e7e7e7;
+
+}
+
+.shortcode-yelp-reviews .clear {
+
+    clear: both;
+
+}
+
+.shortcode-yelp-reviews li {
+
+    display: block;
+
+    list-style: none;
+
+    border-top: 1px solid #e7e7e7;
+
+    width: 100%;
+
+}
+
+.shortcode-yelp-reviews  .yelp-thumbnail {
+
+    width: 75px;
+
+    float: left;
+
+}
+
+
+
+.yelp-info div, .yelp-info h3 {
+
+    display: inline-block;
+
+}
+
+.yelp-info h3 {
+
+    font-size: 15px;
+
+    color: #C41200;
+
+    border: none;
+
+
+
+}
+
+.yelp-widget .yelp-info  {
+
+    font-size: 11px;
+
+}
+
+.yelp-reviews, .yelp-meta, .content-yelp {
+
+    display: block !important;
+
+    font-size: 13px;
+
+    color: #999;
+
+}
+
+.shortcode-yelp-reviews .yelp-thumbnail img {
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  display: block;
+  padding: 0;
+      width: 62px;
+    height: 62px;
+}
+
+.yelp-meta-widget, .yelp-content {
+
+    font-size: 12px;
+
+}
+
+.shortcode-yelp-reviews h3 {
+
+    line-height: 15px;
+
+}
+
+.shortcode-yelp-reviews h3 a{
+
+    font-size: 15px;
+
+    color: #C41200;
+
+    border: none;
+
+}
+
+.yelp-more-rv a {
+
+    font-size: 12px;
+
+}
+
+.shortcode-yelp-reviews h3, .shortcode-yelp-reviews p {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+@media screen and (min-width: 768px) {
+    .shortcode-yelp-reviews li.yelp-col2 {
+
+      width: 48%;
+
+  }
+
+  .shortcode-yelp-reviews li.yelp-col3 {
+
+      width: 32%;
+
+  }
+
+  .shortcode-yelp-reviews li.yelp-col4 {
+
+      width: 24%;
+
+  }
+
+  .shortcode-yelp-reviews li.yelp-col5 {
+
+      width: 19%;
+
+  }
+}
+
+
+.shortcode-yelp-reviews li.yelp-col {
+
+    float: left;
+    padding: 15px 0;
+    margin: 0;
+
+}
+.shortcode-yelp-reviews li.yelp-col, .shortcode-yelp-reviews li.yelp-col * {
+    box-sizing: border-box;
+}
+.shortcode-yelp-reviews-business .shortcode-yelp-reviews li.yelp-col:first-child {
+
+    padding-top: 0;
+
+}
+.shortcode-yelp-reviews.shortcode-yelp-reviews-search {
+
+}
+
+.shortcode-yelp-reviews-business .yelp-col2:nth-child(2n + 2) {
+
+    clear: both;
+
+}
+
+.shortcode-yelp-reviews-business .yelp-col3:nth-child(3n + 2) {
+
+    clear: both;
+
+}
+
+.shortcode-yelp-reviews-business .yelp-col4:nth-child(4n + 2) {
+
+    clear: both;
+
+}
+
+.shortcode-yelp-reviews-business .yelp-col5:nth-child(5n + 2) {
+
+    clear: both;
+
+    border: none !important;
+
+}
+
+.shortcode-yelp-reviews-search .yelp-col2:nth-child(2n + 1) {
+
+    clear: both;
+
+}
+
+.shortcode-yelp-reviews-search .yelp-col3:nth-child(3n + 1) {
+
+    clear: both;
+
+}
+
+.shortcode-yelp-reviews-search .yelp-col4:nth-child(4n + 1) {
+
+    clear: both;
+
+}
+
+.shortcode-yelp-reviews-search .yelp-col5:nth-child(5n + 1) {
+
+    clear: both;
+
+    border: none !important;
+
+}
+
+.yelp-more-rv{
+
+    border: none !important;
+
+}
+
+.yelp-col {
+
+    padding-right: 15px;
+
+}
+
+.yelp-widget .yelp-thumbnail img{
+
+    padding: 5px 10px 10px 0;
+
+    border-radius: 3px;
+
+}
+
+.yelp-widget .yelp-thumbnail {
+
+    width: 30%;
+
+    float: left;
+
+}
+
+.yelp-widget .yelp-info {
+
+    width: 70%;
+
+    float: right;
+
+}
+
+.yelp-widget p {
+
+    margin: 0;
+
+}
+
+.clear {
+
+    clear: both;
+
+    border: none !important;
+
+}
+
+.yelp-reviews-col1 .content-yelp {
+
+    clear: both;
+
+}
+
+.content-yelp {
+
+    font-size: 14px;
+    margin-top: 8px;
+    padding-right: 5px;
+
+}
+
+.shortcode-yelp-reviews li.yelp-more-rv {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+.shortcode-yelp-reviews li.yelp-more-rv a {
+
+    font-size: 12px;
+
+}
+
+.yelp-widget .yelp-reviews {
+
+    padding-left: 0;
+
+}
+
+ul.shortcode-yelp-reviews {
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.shortcode-yelp-reviews li:first-child{
+
+    border: none;
+
+}
+
+.yelp-reviews span {
+
+    display: block;
+
+    margin-top: -26px;
+    padding-left: 107px;
+
+}
+
+.yelp-meta img {
+
+    display: block;
+
+}
+
+.yelp-reviews {
+
+    padding-left: 60px
+
+}
+
+.yelp-reviews .stars_0 {
+
+    background-position: -3px -304px;
+
+}
+
+.yelp-reviews .stars_1 {
+
+    background-position: -3px -324px;
+
+}
+
+.yelp-reviews .stars_2 {
+
+    background-position: -3px -364px;
+
+}
+
+.yelp-reviews .stars_3 {
+
+    background-position: -3px -406px;
+
+}
+
+.yelp-reviews .stars_4 {
+
+    background-position: -3px -449px;
+
+}
+
+.yelp-reviews .stars_5 {
+
+    background-position: -3px -491px;
+
+}
+
+.offscreen {
+
+    clip: rect(0 0 0 0);
+
+    position: absolute;
+
+    left: -9999px;
+
+    top: auto;
+
+    overflow: hidden;
+
+    width: 1px;
+
+    height: 1px;
+
+}
+
+.star-img {
+
+    display: block;
+
+    width: 150px;
+
+    height: 20px;
+
+    background: url(../images/stars_map.png) no-repeat;
+
+}
+
+@media (max-width: 992px) {
+
+    .yelp-col {
+
+      width: 100%;
+
+    }
+
+}
+
+
+.shortcode-yelp-reviews-search li.yelp-col3:nth-child(1),
+.shortcode-yelp-reviews-search li.yelp-col3:nth-child(2),
+.shortcode-yelp-reviews-search li.yelp-col3:nth-child(3),
+
+.shortcode-yelp-reviews-search li.yelp-col2:nth-child(1),
+.shortcode-yelp-reviews-search li.yelp-col2:nth-child(2),
+
+.shortcode-yelp-reviews-search li.yelp-col4:nth-child(1),
+.shortcode-yelp-reviews-search li.yelp-col4:nth-child(2),
+.shortcode-yelp-reviews-search li.yelp-col4:nth-child(3),
+.shortcode-yelp-reviews-search li.yelp-col4:nth-child(4),
+
+.shortcode-yelp-reviews-search li.yelp-col5:nth-child(1),
+.shortcode-yelp-reviews-search li.yelp-col5:nth-child(2),
+.shortcode-yelp-reviews-search li.yelp-col5:nth-child(3),
+.shortcode-yelp-reviews-search li.yelp-col5:nth-child(4),
+.shortcode-yelp-reviews-search li.yelp-col5:nth-child(5)
+{
+    border-top: none;
+}
+
+
+.yelp-reviews {
+    margin-top: 5px;
+}
+
+.location {
+    clear: both;
+    display: block;
+}
+.yelp-reviews {
+    padding-left: 75px;
+}
+.ontent-yelp {
+    clear: both;
+}
+
+.njt-yelp-stars {
+  background-image: url("../images/stars_map.png");
+  background-position: 0 -1066px;
+  height: 20px;
+  width: 132px;
+}
+
+.njt-yelp-stars.njt-yelp-star-5 {
+  background-position: 0 -1255px;
+}
+.njt-yelp-stars.njt-yelp-star-4 {
+  background-position: 0 -1213px;
+}
+.njt-yelp-stars.njt-yelp-star-4-half {
+  background-position: 0 -1234px;
+}
+.njt-yelp-stars.njt-yelp-star-3 {
+  background-position: 0 -1171px;
+}
+.njt-yelp-stars.njt-yelp-star-3-half {
+  background-position: 0 -1192px;
+}
+.njt-yelp-stars.njt-yelp-star-2 {
+  background-position: 0 -1129px;
+}
+.njt-yelp-stars.njt-yelp-star-2-half {
+    background-position: 0 -1150px;
+}
+.njt-yelp-stars.njt-yelp-star-1 {
+    background-position: 0 -1087px;
+}
+.njt-yelp-stars.njt-yelp-star-1-half {
+    background-position: 0px -1108px;
+}
+.njt-yelp-stars.njt-yelp-star-0 {
+    background-position: 0 -1066px;
+}
+
+.shortcode-yelp-reviews .yelp-thumbnail {
+  float: left;
+  padding: 0 4px;
+  width: 70px;
+}
+.njt-yelp-main .yelp-info {
+  float: left;
+  padding: 0 4px;
+  width: calc(100% - 70px);
+}
+
+.njt-yelp-main.njt-yelp-main-b .yelp-thumbnail {
+  height: 140px;
+  overflow: hidden;
+  width: 140px;
+}
+.njt-yelp-main.njt-yelp-main-b .yelp-info {
+  width: calc(100% - 140px);
+}
+
+.njt_yelp_widget .njt-yelp-main.njt-yelp-main-b .yelp-thumbnail {
+  width: 70px;
+}
+.njt_yelp_widget .njt-yelp-main.njt-yelp-main-b .yelp-info {
+  width: calc(100% - 70px);
+}
+
+.njt-yelp-main .yelp-info div,
+.njt-yelp-main .yelp-info h3 {
+    display: block;
+}
+.njt-yelp-main .yelp-reviews {
+    padding: 0;
+}
+.njt-yelp-main .yelp-reviews span {
+    margin-top: 0;
+    padding-left: 0;
+}
+.njt-yelp-main .content-yelp {
+    margin-top: 10px;
+}
+
+a.njt-yelp-read-more,
+a.njt-yelp-read-less {
+    box-shadow: none;
+    outline: none;
+    font-size: 12px;
+    font-style: italic;
+}
+
+a.njt-yelp-read-more:focus,
+a.njt-yelp-read-less:focus {
+    box-shadow: none;
+    outline: none;
+}
+a.njt-yelp-read-more:hover,
+a.njt-yelp-read-less:hover {
+    box-shadow: none;
+    outline: none;
+}
+ul.shortcode-yelp-reviews.shortcode-yelp-reviews-search .yelp-thumbnail img,
+.njt-yelp-main.njt-yelp-main-b .yelp-thumbnail img {
+    width: 120px;
+    height: 120px;
+}
+
+.yelp-col a.njt-yelp-read-more:hover,
+.yelp-col a.njt-yelp-read-more:focus,
+.yelp-col a.njt-yelp-read-less:hover,
+.yelp-col a.njt-yelp-read-less:focus {
+    border-bottom: none;
+    box-shadow: none;
+}

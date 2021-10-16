@@ -1,0 +1,2044 @@
+Uri: https://www.sugaringnyc.com/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/menu-BG.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\menu-BG.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2017/09/October_Defaul_Banner-1.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2017\09\October_Defaul_Banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/footer.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\footer.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2015/12/sugaring_transparent.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2015\12\sugaring_transparent.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://www.sugaringnyc.com/comments/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.3.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\css\sbi-styles.min.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/codecanyon-GB8h4NtI-agile-store-locator-google-maps-for-wordpress/public/css/init.css?ver=4.6.9
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\codecanyon-GB8h4NtI-agile-store-locator-google-maps-for-wordpress\public\css\init.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/preloader-plus/assets/css/preloader-plus.min.css?ver=2.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\preloader-plus\assets\css\preloader-plus.min.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/style.css?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\style.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/css/skin/default.css?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\css\skin\default.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/dist/front.bundle.css?ver=39.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\dist\front.bundle.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/parallaxBackground/dist/parallaxBackground.bundle.css?ver=39.1-3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\parallaxBackground\dist\parallaxBackground.bundle.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/backgroundVideoEmbed/dist/backgroundVideoEmbed.bundle.css?ver=39.1-3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\backgroundVideoEmbed\dist\backgroundVideoEmbed.bundle.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/font-awesome/font-awesome.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\font-awesome\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/frontend.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\frontend.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/responsive.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\responsive.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/jquery.bxslider.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/prettyPhoto.css?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/scroll-style.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\scroll-style.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/css/yelp-reviews.css?ver=1.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\css\yelp-reviews.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-json/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\index.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3862.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/xmlrpc.php?rsd
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/brazilian-sugaring/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\brazilian-sugaring\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/bikini-facials-nyc/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\bikini-facials-nyc\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/underarm-sugaring/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\underarm-sugaring\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/brow-lamination-nyc/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\brow-lamination-nyc\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/yearly-unlimited-packages/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\yearly-unlimited-packages\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/our-story/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\our-story\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/ELLE_Magazine_Logo.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\ELLE_Magazine_Logo.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/locations/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\locations\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/collaborations/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\collaborations\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/preloader-plus//assets/js/preloader-plus.min.js?ver=2.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\preloader-plus\assets\js\preloader-plus.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/modernizr.custom.min.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\modernizr.custom.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.bxSlider.js?ver=4.1.2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.bxSlider.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.prettyPhoto.js?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.prettyPhoto.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.scroller.js?ver=2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.scroller.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.actual.js?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.actual.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/frontend.js?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\frontend.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2017/03/sugaringNYC_logo.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2017\03\sugaringNYC_logo.png
+Content Type: image/png
+
+Uri: http://sugaringnyc.com/wp-content/themes/beautyspot/button.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\button.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/09/videoplayback.mp4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\09\videoplayback.mp4
+Content Type: video/mp4
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/quotemark.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\quotemark.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/bookSugaring.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\bookSugaring.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/yelp.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\yelp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/brazilianIcon.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\brazilianIcon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/fullBodyIcon.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\fullBodyIcon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/underarmIcon.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\underarmIcon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/unlimitedIcon.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\unlimitedIcon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/review1.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\review1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/review2.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\review2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/review3.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\review3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/featured.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\featured.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/instagram-feed/img/placeholder.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\img\placeholder.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/10/ios.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\10\ios.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/09/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\09\loader.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/dist/front.bundle.js?ver=39.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\dist\front.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/dist/runtime.bundle.js?ver=39.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\dist\runtime.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/fullWidth/dist/fullWidth.bundle.js?ver=39.1-3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\fullWidth\dist\fullWidth.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/fullHeight/dist/fullHeight.bundle.js?ver=39.1-3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\fullHeight\dist\fullHeight.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/waypoints/dist/noframework.waypoints.min.js?ver=39.1-3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\waypoints\dist\noframework.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/parallaxBackground/dist/parallaxBackground.bundle.js?ver=39.1-3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\parallaxBackground\dist\parallaxBackground.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/backgroundVideoEmbed/dist/backgroundVideoEmbed.bundle.js?ver=39.1-3862
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\backgroundVideoEmbed\dist\backgroundVideoEmbed.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/js/readmore.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\js\readmore.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/js/main.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/third-party.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\third-party.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/library.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\library.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/scripts.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-includes/js/comment-reply.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.5
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\page-links-to\dist\new-tab.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\lib\vc_waypoints\vc-waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.9.3.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\js\sbi-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/instagram-feed/img/small-logo.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\img\small-logo.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.eot?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.woff?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons.woff
+Content Type: font/woff
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.ttf?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.svg?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/img/loader_2x.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\img\loader_2x.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/themes/beautyspot/library/img/header_bg_bost.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\img\header_bg_bost.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/newsletter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\newsletter.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\prev.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\next.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp3newsletter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp3newsletter.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp3prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp3prev.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp3next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp3next.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4prev.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4next.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp5prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp5prev.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp5next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp5next.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/newsletter8.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\newsletter8.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8prev.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8next.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-3.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-3.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-4.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-4.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp14newsletter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp14newsletter.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-6.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-6.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-7.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-7.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/showhidetoggledown.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\showhidetoggledown.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/showhidetoggletop.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\showhidetoggletop.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4hideshow.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4hideshow.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4hide.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4hide.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8toggledown.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8toggledown.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8toggletop.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8toggletop.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/bx_loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\bx_loader.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/controls.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\controls.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/scroll_controls.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\scroll_controls.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/images/stars_map.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\images\stars_map.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3765
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3765.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbrazilian-sugaring%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbrazilian-sugaring%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/brazilianCover.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\brazilianCover.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/beforeAfter-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\beforeAfter-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/howItWorks.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\howItWorks.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/glitterTattoo-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\glitterTattoo-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/lessHairinaYear-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\lessHairinaYear-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/body-sugaring/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\body-sugaring\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3689
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3689.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbody-sugaring%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbody-sugaring%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/body-sugaring-min-1200x579.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\body-sugaring-min-1200x579.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/face-sugaring/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\face-sugaring\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3692
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3692.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fface-sugaring%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fface-sugaring%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/04/FACE_SUGARING-1200x750.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\04\FACE_SUGARING-1200x750.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaringIngredients.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaringIngredients.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/imageFilter/dist/imageFilter.bundle.css?ver=39.1-7184
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\imageFilter\dist\imageFilter.bundle.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/animate/dist/animate.bundle.css?ver=39.1-7184
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\animate\dist\animate.bundle.css
+Content Type: text/css
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/7184
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\7184.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbikini-facials-nyc%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbikini-facials-nyc%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/04/V-Facial_Imagebadge-1.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\04\V-Facial_Imagebadge-1.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/09/tools.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\09\tools.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/lazyLoad/dist/lazyLoad.bundle.js?ver=39.1-7184
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\lazyLoad\dist\lazyLoad.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/waypoints/dist/noframework.waypoints.min.js?ver=39.1-7184
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\waypoints\dist\noframework.waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/animate/dist/animate.bundle.js?ver=39.1-7184
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\animate\dist\animate.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/sources/assetsLibrary/fullHeight/dist/fullHeight.bundle.js?ver=39.1-7184
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\sources\assetsLibrary\fullHeight\dist\fullHeight.bundle-1.js
+Content Type: application/javascript
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/6577
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\6577.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Funderarm-sugaring%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Funderarm-sugaring%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/04/underarm-sugaring-min-1-copy.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\04\underarm-sugaring-min-1-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/yumi-lashes-nyc/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\yumi-lashes-nyc\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/yumi-lashes-nyc/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\yumi-lashes-nyc\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/4956
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\4956.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fyumi-lashes-nyc%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fyumi-lashes-nyc%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/11/lashes-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\11\lashes-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/yumiLashesBeforeAfter-800x844.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\yumiLashesBeforeAfter-800x844.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/7144
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\7144.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbrow-lamination-nyc%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fbrow-lamination-nyc%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/08/brow-lamination-NYC-New-York.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\08\brow-lamination-NYC-New-York.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/08/eyebrow-lamination-nyc.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\08\eyebrow-lamination-nyc.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/locations/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\locations\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3975
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3975.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Flocations%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Flocations%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/sugaring-brooklyn-park-slope-sugaring-nyc-location/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\sugaring-brooklyn-park-slope-sugaring-nyc-location\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaringLocations_cover-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaringLocations_cover-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaringLocations-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaringLocations-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/prices/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\prices\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3737
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3737.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fprices%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fprices%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_ROOM.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_ROOM.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_ROOM-1200x960.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_ROOM-1200x960.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_ROOM-800x640.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_ROOM-800x640.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_ROOM-768x615.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_ROOM-768x615.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_ROOM-1536x1229.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_ROOM-1536x1229.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_ROOM-430x344.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_ROOM-430x344.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/male-sugaring-prices/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\male-sugaring-prices\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/5489
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\5489.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fmale-sugaring-prices%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fmale-sugaring-prices%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_prices_MEN.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_prices_MEN.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_prices_MEN-1200x960.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_prices_MEN-1200x960.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_prices_MEN-800x640.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_prices_MEN-800x640.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_prices_MEN-768x614.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_prices_MEN-768x614.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/03/16x20_prices_MEN-430x344.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\03\16x20_prices_MEN-430x344.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/5491
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\5491.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fyearly-unlimited-packages%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fyearly-unlimited-packages%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/04/unlimited_packages_sugaringNYC.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\04\unlimited_packages_sugaringNYC.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/04/unlimited_packages_sugaringNYC-800x618.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\04\unlimited_packages_sugaringNYC-800x618.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/04/unlimited_packages_sugaringNYC-768x593.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\04\unlimited_packages_sugaringNYC-768x593.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2021/04/unlimited_packages_sugaringNYC-430x332.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2021\04\unlimited_packages_sugaringNYC-430x332.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/6583
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\6583.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Four-story%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Four-story%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/daria-1-800x800.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\daria-1-800x800.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/no-bad-stuff.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\no-bad-stuff.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/paste-min-1.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\paste-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/sugaring-vs-waxing/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\sugaring-vs-waxing\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3669
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3669.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fsugaring-vs-waxing%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fsugaring-vs-waxing%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaringIngredients-800x331.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaringIngredients-800x331.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaring-paste-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaring-paste-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaring-vs-waxing-application-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaring-vs-waxing-application-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaring-paste-min-800x476.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaring-paste-min-800x476.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaring-paste-min-768x457.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaring-paste-min-768x457.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaring-paste-min-1200x714.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaring-paste-min-1200x714.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaring-paste-min-430x256.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaring-paste-min-430x256.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/sugaring-paste-min-2000x1189.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\sugaring-paste-min-2000x1189.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/sugaring-nyc-information/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\sugaring-nyc-information\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/4008
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\4008.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fsugaring-nyc-information%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fsugaring-nyc-information%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/IMG-min.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\IMG-min.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sugaringnyc.com/brazilian-sugaring/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\brazilian-sugaring\index-1.htm
+Content Type: text/html
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.3.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\css\sbi-styles.min-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/codecanyon-GB8h4NtI-agile-store-locator-google-maps-for-wordpress/public/css/init.css?ver=4.6.9
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\codecanyon-GB8h4NtI-agile-store-locator-google-maps-for-wordpress\public\css\init-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/preloader-plus/assets/css/preloader-plus.min.css?ver=2.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\preloader-plus\assets\css\preloader-plus.min-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/style.css?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\style-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/css/skin/default.css?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\css\skin\default-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\css\js_composer.min-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/dist/front.bundle.css?ver=39.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\dist\front.bundle-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/font-awesome/font-awesome.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\font-awesome\font-awesome-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/frontend.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\frontend-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/responsive.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\responsive-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/jquery.bxslider.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\jquery.bxslider-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/prettyPhoto.css?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\prettyPhoto-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/frontend/scroll-style.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\frontend\scroll-style-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/css/yelp-reviews.css?ver=1.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\css\yelp-reviews-1.css
+Content Type: text/css
+
+Uri: http://www.sugaringnyc.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: http://www.sugaringnyc.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/preloader-plus//assets/js/preloader-plus.min.js?ver=2.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\preloader-plus\assets\js\preloader-plus.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/modernizr.custom.min.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\modernizr.custom.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.bxSlider.js?ver=4.1.2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.bxSlider-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.prettyPhoto.js?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.prettyPhoto-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.scroller.js?ver=2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.scroller-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/jquery.actual.js?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\jquery.actual-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/js/frontend/frontend.js?ver=2.0.4
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\js\frontend\frontend-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/instagram-feed/img/placeholder.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\img\placeholder-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/dist/front.bundle.js?ver=39.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\dist\front.bundle-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/visualcomposer/public/dist/runtime.bundle.js?ver=39.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\visualcomposer\public\dist\runtime.bundle-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\contact-form-7\includes\js\index-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/js/readmore.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\js\readmore.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/js/main.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\js\main-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/third-party.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\third-party-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/library.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\library-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/js/scripts.js?ver=2.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\js\scripts-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-includes/js/comment-reply.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\comment-reply.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.5
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\page-links-to\dist\new-tab-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-includes\js\wp-embed.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.9.3.1
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\js\sbi-scripts.min-1.js
+Content Type: application/javascript
+
+Uri: http://www.sugaringnyc.com/body-sugaring/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\body-sugaring\index-1.htm
+Content Type: text/html
+
+Uri: http://www.sugaringnyc.com/policy/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\policy\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/policy/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\policy\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/policy/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\policy\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/4982
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\4982.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fpolicy%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fpolicy%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/6580
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\6580.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fcollaborations%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fcollaborations%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2019/07/collabs.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2019\07\collabs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/appointment/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\appointment\index.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/3937
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\3937.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fappointment%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fappointment%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: http://www.sugaringnyc.com/face-sugaring/
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\face-sugaring\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sugaringnyc.com/wp-json/wp/v2/pages/6992
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\wp\v2\pages\6992.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fsugaring-brooklyn-park-slope-sugaring-nyc-location%2F
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: https://www.sugaringnyc.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.sugaringnyc.com%2Fsugaring-brooklyn-park-slope-sugaring-nyc-location%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/01/a3-800x553.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\01\a3-800x553.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/01/subway.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\01\subway.png
+Content Type: image/png
+
+Uri: https://www.sugaringnyc.com/wp-content/uploads/2020/01/buses.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\uploads\2020\01\buses.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/instagram-feed/img/small-logo.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\instagram-feed\img\small-logo-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.eot?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.woff?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons-1.woff
+Content Type: font/woff
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.ttf?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/fonts/social-icons.svg?62281492
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\fonts\social-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/img/loader_2x.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\img\loader_2x-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/themes/beautyspot/library/img/header_bg_bost.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\themes\beautyspot\library\img\header_bg_bost-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\alert-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\info-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\tick-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\exclamation-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\address-book-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\alarm-clock-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\anchor-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\application-image-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\arrow-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\asterisk-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\auction-hammer-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\battery-full-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\binocular-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-image-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-music-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-office-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-word-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\bookmark-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\camcorder-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\camera-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\chart-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\chart-pie-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\clock-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\control-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\fire-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\heart-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\mail-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\plus-shield-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\icons\video-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.woff
+Content Type: font/woff
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\toggle_open-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\toggle_close-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\flickr-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\blur-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.woff
+Content Type: font/woff
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\images\spinner-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\js_composer\assets\vc\remove-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/newsletter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\newsletter-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\prev-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\next-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp3newsletter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp3newsletter-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp3prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp3prev-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp3next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp3next-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4prev-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4next-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp5prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp5prev-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp5next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp5next-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/newsletter8.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\newsletter8-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8prev-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8next-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-3.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-3-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-4.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-4-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp14newsletter.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp14newsletter-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-6.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-6-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/arrow-type-7.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\arrow-type-7-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/showhidetoggledown.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\showhidetoggledown-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/showhidetoggletop.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\showhidetoggletop-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4hideshow.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4hideshow-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp4hide.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp4hide-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8toggledown.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8toggledown-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/temp8toggletop.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\temp8toggletop-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/bx_loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\bx_loader-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/controls.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\controls-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_x-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_y-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_next-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\sprite_prev-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\default_thumb-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/default/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\default\loader-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\sprite-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\btnNext-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\btnPrevious-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_rounded\loader-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\sprite-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\contentPattern-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\btnNext-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\btnPrevious-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_rounded\loader-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\loader-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\sprite-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\btnNext-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\dark_square\btnPrevious-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_square\sprite-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_square\btnNext-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\light_square\btnPrevious-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\sprite-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternTop-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternLeft-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternRight-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\loader-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\btnNext-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\btnPrevious-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\contentPatternBottom-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/css/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\css\images\prettyPhoto\facebook\default_thumbnail-1.gif
+Content Type: image/gif
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/apex-notification-bar-lite/images/scroll_controls.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\apex-notification-bar-lite\images\scroll_controls-1.png
+Content Type: image/png
+
+Uri: http://www.sugaringnyc.com/wp-content/plugins/yelp-reviews-pro/lib/images/stars_map.png
+File Name: C:\Users\Umarjon\Desktop\sites\www.sugaringnyc.com\wp-content\plugins\yelp-reviews-pro\lib\images\stars_map-1.png
+Content Type: image/png
+
